@@ -25,15 +25,15 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
+  primary: 6fa8dc #80B3FF
+  primary-rgb: "111,168,220" #"128,179,255"
+  secondary: F1C232 #FD6E8A
+  secondary-dark: bf9000 #A2122F
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
+  copyright: Hochschule Albstadt-Sigmaringen
+  location: Hochschule Albstadt-Sigmaringen
   social: Around the Web
   credits: Credits
 
@@ -52,8 +52,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Jakobstraße
+  - line: 72458 Albstadt-Ebingen
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
