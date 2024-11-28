@@ -75,6 +75,13 @@ hr.star-primary:after {
     color: #{{ site.color.secondary }};
     background-color: #fff;
 }
+hr.simple {
+    max-width: 250px;
+    margin: 25px auto 30px;
+    text-align: center;
+    border: 0;
+    border-top: 5px;
+}
 
 .img-centered {
     margin: 0 auto;
@@ -82,7 +89,7 @@ hr.star-primary:after {
 
 header {
     text-align: center;
-    color: #fff;
+    color: #ffffff;
     background: #{{ site.color.primary }};
 }
 
