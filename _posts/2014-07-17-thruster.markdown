@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 2
+date: 2014-07-17
+img: cake.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: The drives were designed for a diving depth of approx. 500 metres. They generate a thrust of 210N at 2.4kW input power (48V system), with an efficiency of over 89%. They are controlled via a Raspberry Pi with VESC. 
+---
