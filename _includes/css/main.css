@@ -75,12 +75,15 @@ hr.star-primary:after {
     color: #{{ site.color.secondary }};
     background-color: #fff;
 }
+
 hr.simple {
     max-width: 250px;
+    height: 5px;
     margin: 25px auto 30px;
     text-align: center;
     border: 0;
     border-top: 5px;
+    color:#fff;
 }
 
 .img-centered {
