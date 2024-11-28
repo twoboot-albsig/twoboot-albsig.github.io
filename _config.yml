@@ -4,7 +4,7 @@ email: your-email@domain.com
 url: https://dollmakl.github.io
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
+skills: "Submersible, Dive deep, Discover "
 meta_author: Dollmann Klara
 
 # Google webmaster tools
@@ -52,7 +52,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Jakobstraße
+  - line: Jakobstraße 6
   - line: 72458 Albstadt-Ebingen
 
 # Credits content
