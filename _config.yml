@@ -56,7 +56,7 @@ address:
   - line: 72458 Albstadt-Ebingen
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="_layouts/datenschutz.html">Datenschutz</a>.'
+credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a url="https://startbootstrap.com/theme/freelancer">Datenschutz</a>.'
 
 # Build settings
 markdown: kramdown
