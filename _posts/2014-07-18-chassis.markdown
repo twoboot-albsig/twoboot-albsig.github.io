@@ -5,7 +5,8 @@ date: 2014-07-18
 img: chassis.png
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
 description: The Chassis is from stainless steel and was designed to be pressure neutral. Diing depth of more than 1000 m are easily possible. The chassis is 1x1x1m large and weighs around 80 kg.
+img2: 
+description2:
+
 ---
