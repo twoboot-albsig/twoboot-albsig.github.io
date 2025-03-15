@@ -1,4 +1,4 @@
-TwoBoot 
+TwoBoot-Website
 =========================
 This is the github repository for the website of the [Twoboot](https://www.twoboot.de/) project at the University of Applied Sciences Albstadt-Sigmaringen. The Electrical Engineering labratory is developing a submersible. The website offers the chance for people to get an overview of the project and to get in touch with the team. 
 
