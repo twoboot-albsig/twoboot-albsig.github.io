@@ -5,7 +5,7 @@ date: 2014-07-15
 img: shelter.png
 alt: image-alt
 project-date: April 2014
-description: The shelters serve as pressure-resistant housings for the electronic components up to a diving depth of at least 500 metres. With a diameter of 220mm and a length of 900mm, the two shelters offer sufficient space.
+description: The shelters serve as pressure-resistant housings for the electronic components up to a diving depth of at least 500&nbsp;metres. With a diameter of 220&nbsp;mm and a length of 900&nbsp;mm, the two shelters offer sufficient space.
 img2: 
 description2:
 
